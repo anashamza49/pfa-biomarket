@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anass\\source\\repos\\pfaproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\services\\implementations\\cooperativeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\services\\implementations\\cooperativeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\pfaproject\\dtos\\cooperativedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C292A5A2-6D56-4703-B65D-442E351DAB09}|pfaproject\\pfaproject.csproj|solutionrelative:pfaproject\\dtos\\cooperativedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A24AE2-82E8-4820-8192-9FDC2A3E49BE}|User.Management.Service\\User.Management.Service.csproj|c:\\users\\anass\\source\\repos\\pfaproject\\user.management.service\\models\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A24AE2-82E8-4820-8192-9FDC2A3E49BE}|User.Management.Service\\User.Management.Service.csproj|solutionrelative:user.management.service\\models\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Data\\MyContext.cs",
+              "RelativeDocumentMoniker": "pfaproject\\Data\\MyContext.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Data\\MyContext.cs",
+              "RelativeToolTip": "pfaproject\\Data\\MyContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T23:35:20.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Services\\Implementations\\AdminService.cs",
+              "RelativeDocumentMoniker": "pfaproject\\Services\\Implementations\\AdminService.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Services\\Implementations\\AdminService.cs",
+              "RelativeToolTip": "pfaproject\\Services\\Implementations\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:56:10.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "pfaproject\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "pfaproject\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:18:29.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "pfaproject\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "pfaproject\\DTOs\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:33:24.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "pfaproject\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Models\\Client.cs",
+              "RelativeToolTip": "pfaproject\\Models\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:34:00.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\appsettings.json",
+              "RelativeDocumentMoniker": "pfaproject\\appsettings.json",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\appsettings.json",
+              "RelativeToolTip": "pfaproject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T23:09:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "pfaproject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "pfaproject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:49:31.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CooperativeService.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Services\\Implementations\\CooperativeService.cs",
+              "RelativeDocumentMoniker": "pfaproject\\Services\\Implementations\\CooperativeService.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\Services\\Implementations\\CooperativeService.cs",
+              "RelativeToolTip": "pfaproject\\Services\\Implementations\\CooperativeService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAGQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:00:23.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CooperativeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\DTOs\\CooperativeDTO.cs",
+              "RelativeDocumentMoniker": "pfaproject\\DTOs\\CooperativeDTO.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\pfaproject\\DTOs\\CooperativeDTO.cs",
+              "RelativeToolTip": "pfaproject\\DTOs\\CooperativeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:44:04.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\pfaproject\\User.Management.Service\\Models\\EmailConfiguration.cs",
+              "RelativeDocumentMoniker": "User.Management.Service\\Models\\EmailConfiguration.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\pfaproject\\User.Management.Service\\Models\\EmailConfiguration.cs",
+              "RelativeToolTip": "User.Management.Service\\Models\\EmailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:01:37.631Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
